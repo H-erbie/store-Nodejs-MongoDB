@@ -1,0 +1,33 @@
+[
+    {
+    "name": "hoodie",
+    "price": 200,
+    "rating": 3.4,
+    "company": "ikea"
+},
+{
+    "name": "sweat shirt",
+    "price": 200,
+    "rating": 3.4,
+    "company": "ikea"
+},
+{
+    "name": "trouser",
+    "price": 200,
+    "rating": 3.4,
+    "company": "ikea"
+},
+{
+    "name": "jeans",
+    "price": 200,
+    "rating": 3.4,
+    "company": "ikea"
+},
+{
+    "name": "joradan 1",
+    "price": 200,
+    "rating": 3.4,
+    "company": "ikea"
+}
+
+]
